@@ -4,6 +4,15 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
 
+@media(max-width:768px) {
+    #imagem1{
+        background-attachment: scroll;
+    }
+    #imagem2{
+        background-attachment: scroll;
+    }
+}
+
 html, body {
     min-height: 100vh;
     margin: 0;
